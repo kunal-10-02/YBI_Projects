@@ -52,6 +52,6 @@ The dataset used for this project was sourced from [YBI Foundation](https://gith
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/kunal-10-02/movie-recommendation-system.git
 cd movie-recommendation-system
 pip install -r requirements.txt
